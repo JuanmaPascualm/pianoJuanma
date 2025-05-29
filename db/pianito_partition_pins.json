@@ -1,0 +1,33 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "pitido",
+					"strict" : false
+				},
+				{
+					"name" : "sel0",
+					"strict" : false
+				},
+				{
+					"name" : "sel3",
+					"strict" : false
+				},
+				{
+					"name" : "sel1",
+					"strict" : false
+				},
+				{
+					"name" : "sel2",
+					"strict" : false
+				},
+				{
+					"name" : "CLKe1",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
